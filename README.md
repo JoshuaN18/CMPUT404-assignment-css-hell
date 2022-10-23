@@ -23,4 +23,4 @@ Code is licensed under the Apache 2.0 license.
 
 Gutenberg
 =========
-All html files removed the style and added: ```<link rel="stylesheet" type="text/css" href="style.css" />```
+All html files: Removed the style and added ```<link rel="stylesheet" type="text/css" href="style.css" />```
