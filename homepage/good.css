@@ -1,0 +1,105 @@
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_topnav */
+
+img {
+    margin-top: 5pt;
+	border: 10px solid #a45aa7;
+	display: block;
+    width:17%;
+    border-radius: 50%;
+    float:left;
+}
+
+h2{
+    position: relative;
+    /* margin-left: 20%; */
+}
+h3{
+    position: relative;
+    color: white;
+}
+h4 {
+
+    font-size: 25px;
+
+}
+.ok{
+    color: white;
+}
+
+
+p {
+    font-size: 20px;
+
+}
+li {
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+.title {
+    text-align: center
+    
+}
+
+.about {
+    border: 10px solid #a45aa7;
+    padding: 25px;
+    margin: 10px;
+    margin-left: 20%;
+    border-radius: 10pt;
+
+}
+
+.history {
+    border: 10px solid #a45aa7;
+    padding: 25px;
+    margin: 10px;
+    margin-left: 20%;
+    border-radius: 10pt;
+}
+
+.skills {
+    border: 10px solid #a45aa7;
+    padding: 25px;
+    margin: 10px;
+    margin-left: 20%;
+    border-radius: 10pt;
+}
+
+.menu {
+    margin-top: 5pt;
+    padding: 20px;
+    background-color: #a45aa7;
+    border-radius: 10pt;
+    float:left;
+    height: 300pt;
+    width: 15%;
+    clear:left;
+  }
+ul{
+    list-style-type: circle;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #a45aa7;
+    border-radius: 10pt;
+  }
+  
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 30px 25px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(109, 58, 110);
+    color: white;
+  }
+  
+  .topnav a.active {
+    background-color: #853e81;
+    color: white;
+  }
